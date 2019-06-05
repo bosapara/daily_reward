@@ -1,0 +1,2 @@
+1. Customizable time left for regular players (24 hours by default) - edit "daily_reward.time_left" = 60*60*24
+2. Customizable cooldown for new players (3 hours by default) - edit "daily_reward.new_player" = 21*60*60
