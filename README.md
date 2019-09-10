@@ -15,7 +15,8 @@ Setup
 1. Customizable time left for regular players (24 hours by default) - edit "daily_reward.time_left" = 60*60*24
 2. Customizable cooldown for new players (3 hours by default) - edit "daily_reward.new_player" = 21*60*60
 
-![Screenshot](https://i.ibb.co/8K8bzQW/ezgif-3-e6c35ca0d583-min.gif)
+![Screenshot](https://i.ibb.co/zm2chnn/ezgif-5-efd3dc91562f-min.gif)
+![Screenshot](https://i.ibb.co/Rpz5F4z/text.png)
 
 ---------------------------------------------------------------------
 This program is free software: you can redistribute it and/or modify
